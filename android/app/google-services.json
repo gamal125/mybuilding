@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733607170759",
+    "project_id": "engineer-8d850",
+    "storage_bucket": "engineer-8d850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733607170759:android:0303e8f89c962bdf1024e2",
+        "android_client_info": {
+          "package_name": "com.example.enginner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQ-jHdO0It7_YyDf9LW8UHGDdMBlbj5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
